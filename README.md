@@ -7,7 +7,9 @@
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47w5z8ta2p0wvw99cuyzpq2laao4tpmfdbsrk2unvi&ep=v1_gifs_search&rid=giphy.gif&ct=g)">
 
 
-- 🌱 I’m currently learning **embedded C and front-end development**
+- 🎓 Computer Science Graduate
+  
+- 🌱 I’m currently expanding my knowledges in **embedded C and front-end development**
 
 - 👨‍💻 All of my projects are available at [https://tarziu-alin-portfolio.netlify.app/](https://tarziu-alin-portfolio.netlify.app/)
 
