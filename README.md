@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47w5z8ta2p0wvw99cuyzpq2laao4tpmfdbsrk2unvi&ep=v1_gifs_search&rid=giphy.gif&ct=g)">
 
 
-- 🎓 Bachelor degree in Informatics
+- 🎓 Bachelor's degree in Informatics
   
 - 🌱 I’m currently expanding my knowledges in **front-end development and embedded C**
 
