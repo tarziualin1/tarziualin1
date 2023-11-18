@@ -9,7 +9,7 @@
 
 - 🎓 Computer Science Graduate
   
-- 🌱 I’m currently expanding my knowledges in **embedded C and front-end development**
+- 🌱 I’m currently expanding my knowledges in **front-end development and embedded C**
 
 - 👨‍💻 All of my projects are available at [https://tarziu-alin-portfolio.netlify.app/](https://tarziu-alin-portfolio.netlify.app/)
 
