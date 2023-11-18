@@ -1,6 +1,9 @@
 ![MasterHead](https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif)
 <h1 align="center">Hi 👋, I'm Tarziu Alin</h1>
+<br/>
 <h3 align="center">Passionate software developer with a keen interest in unraveling the inner workings of technology, machinery, and concepts, driven by an insatiable curiosity for understanding how things operate.</h3>
+<br/>
+<br/>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47w5z8ta2p0wvw99cuyzpq2laao4tpmfdbsrk2unvi&ep=v1_gifs_search&rid=giphy.gif&ct=g)">
 
 
